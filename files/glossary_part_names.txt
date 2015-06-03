@@ -1,0 +1,20 @@
+C
+Cabinet
+Cabinet Slide
+D
+Drawer
+Drawer Slide
+F
+Faceplate
+G
+Gas Control Knob
+J
+Jacket Door
+M
+Multi-Purpose Lighter
+P
+Pilot Button
+T
+Temperature Control Dial
+W
+Wall Outlet
